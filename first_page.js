@@ -13,7 +13,13 @@ window.onload = function (e) {
         {
             title: "Incubate-Nepal",
             image: ["assets/showreel1.jpg", "assets/showreel2.jpg", "assets/showreel3.jpg", "assets/showreel4.jpg", "assets/showreel5.jpg", "assets/showreel6.jpg"],
-            description: "A quick one min Introduction about myself for Incubate-Nepal",
+            description: "A quick one min Introduction about myself for Incubate-Nepal. <br> Incase if you don't understand. Hello and Namaste, my name is Amit timalsina. I am currently seeking for admission in grade 12. Apart from academics, I am currently learning Deep learning from Andrew Ng and Cyber security from experts of IBM in coursera.  
+
+I have been in love with computer since my freshman year. Using it regularly for researching and learning new skills related to computer helped me find my passion in AI which I want to use in Cybersecurity. Thanks to my habit of sustained learning, which not only made me learn Front-end web development, Graphics Designing, C++ with OOP, Python, and now Deep Learning and Cybersecurity but also do lot of projects. Utilizing these skills, I am currently employed as an Information technology specialist in a company. 
+
+Andrew Ng often says, “AI is the new electricity.” He believes that AI has the potential to bring the industrial revolution in the near future that electricity brought 100 years back and I believe that “Cybersecurity is the field that requires most use of AI in order to use AI in other fields as every machine is getting computerized and I assure all have certain vulnerabilities”. 
+
+I wish to nourish myself at Incubate-Nepal with your renowned mentors and research and innovate in the field of AI and Cybersecurity. ",
             url: "#",
             button: "watch",
             class: "video",
