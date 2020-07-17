@@ -13,7 +13,7 @@ window.onload = function (e) {
         {
             title: "Incubate-Nepal",
             image: ["assets/showreel1.jpg", "assets/showreel2.jpg", "assets/showreel3.jpg", "assets/showreel4.jpg", "assets/showreel5.jpg", "assets/showreel6.jpg"],
-            description: "A quick one min Introduction about myself for Incubate-Nepal. ",
+            description: "A quick one min Introduction about myself for Incubate-Nepal. Please use subtitles as I spoke too fast which is not understandable easily. Sorry for Inconvenience.",
             url: "#",
             button: "watch",
             class: "video",
