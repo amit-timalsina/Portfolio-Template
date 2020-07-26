@@ -11,7 +11,7 @@ window.onload = function (e) {
             target: "_blank"
         },
         {
-            title: "Bridgespace",
+            title: "Incubate-Nepal",
             image: ["assets/showreel1.jpg", "assets/showreel2.jpg", "assets/showreel3.jpg", "assets/showreel4.jpg", "assets/showreel5.jpg", "assets/showreel6.jpg"],
             description: "Please use subtitles as I spoke too fast which is not understandable easily. Sorry for Inconvenience.",
             url: "#",
